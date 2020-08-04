@@ -11,7 +11,9 @@
     line-height: 40px;
     text-decoration: none;
   }
-
+  &__description {
+    text-align: center;
+  }
   &__header {
     font-size: 26px;
     line-height: 32px;
